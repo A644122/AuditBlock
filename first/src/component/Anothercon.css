@@ -1,0 +1,195 @@
+.firstcss {
+    
+    margin: auto    ;
+    text-align:center;
+    /* padding: -2px; */
+    margin: 110px;
+    color: whitesmoke;
+    font:initial;
+    
+}
+/* ..................SECONDCSS STYLING......................... */
+.secondcss{
+    position: absolute;
+    left: 12%;
+    top:120%;
+  
+ /* margin: 100px 95px; */
+ margin: 140px 100px;
+    /* background-color: hsl(0, 53%, 11%); */
+    width: 350px;
+    height: 320px;
+   padding: 65px;
+
+    border: 5px solid hwb(0 5% 2%);
+    border-radius: 0px  0px 110px 0px;
+    /* box-shadow: ; */
+}
+.secondcss:hover{
+    background: linear-gradient(180deg, #FF1616 0%, #6D0000 100%),
+linear-gradient(700deg, rgba(255, 255, 255, 0.15) 0%, rgba(255, 255, 255, 0.08) 100%);
+
+}
+ .secondcss,p,h1:hover::after{
+   font-weight: 700;
+    
+
+}
+.thirdcss{
+  
+ position: absolute;
+ left: 60%;
+ bottom: -89%;
+ padding: 65px;
+
+    /* background-color: hsl(3, 53%, 11%); */
+    width: 350px;
+    height: 320px;
+    border: 5px solid hwb(0 5% 2%);
+
+    /* border: 5px solid rgb(65, 3, 3); */
+    border-radius: 0px  0px 0px 110px ;
+    /* box-shadow: ; */
+}
+
+.thirdcss:hover{
+    background: linear-gradient(180deg, #FF1616 0%, #6D0000 100%),
+linear-gradient(700deg, rgba(255, 255, 255, 0.15) 0%, rgba(255, 255, 255, 0.08) 100%);
+
+}
+.fourthcss{
+    position: absolute;
+    padding: 65px;
+    left: 18%;
+    bottom: -1299px;
+    /* margin-bottom: 150px; */
+    /* background-color: #FF1616; */
+    width: 350px;
+    height: 320px;
+    /* border: 5px solid rgb(65, 3, 3); */
+    border: 5px solid hwb(0 5% 2%);
+
+    border-radius: 0px 110px  0px  0px;
+ /* margin: 39px 95px; */
+
+}
+.fourthcss:hover{
+    box-shadow:linear-gradient(180deg, #6D0000 0%, #FF1616 100%); 
+    background: linear-gradient(180deg, #FF1616 0%, #6D0000 100%),
+linear-gradient(700deg, rgba(255, 255, 255, 0.15) 0%, rgba(255, 255, 255, 0.08) 100%);
+
+}
+.fifthcss:hover{
+    background: linear-gradient(180deg, #FF1616 0%, #6D0000 100%),
+linear-gradient(700deg, rgba(255, 255, 255, 0.15) 0%, rgba(255, 255, 255, 0.08) 100%);
+
+}
+.fifthcss{
+    position: absolute;
+    top: 194%;
+    left: 60%;
+    padding: 65px;
+    border: 5px solid hwb(0 5% 2%);
+
+    /* background-color: hsl(0, 86%, 49%); */
+     width: 350px;
+       height: 320px;
+       /* border: 5px solid rgb(65, 3, 3); */
+       border-radius: 110px 0px 0px 0px ;
+   
+    
+
+}
+.buttons{
+    color: #fff;
+    width: 170px;
+    height: 50px;
+    border: 1px solid red;
+    background: black;
+    /* font-size: 1rem; */
+    /* background-color: #FF1616; */
+    border-radius: 4px 4px 4px 4px;
+    /* box-shadow: #6D0000; */
+    box-shadow: 7px -4px 5px 0px rgba(159,27,6,0.68);
+-webkit-box-shadow: 7px -4px 5px 0px rgba(159,27,6,0.68);
+-moz-box-shadow: 7px -4px 5px 0px rgba(159,27,6,0.68);
+}
+.buttons:hover{
+    background: red;
+}
+div.circle{
+    background: linear-gradient(180deg, #6D0000 0%, #FF1616 100%);
+
+    position: absolute;
+    opacity: 20%;
+    left: 41%;
+    top: 158%;
+    width: 375px;
+    height: 375px;
+    /* background-color:goldenrod; */
+    border: 1px solid #FF1616 ;
+    /* border-radius:10% 50% 10% 50% */
+    border-radius:50% 50% 50% 50%;
+    ;
+    transform: rotate(180deg);
+}
+div.circle:hover{
+    background: linear-gradient(180deg, #FF1616 0%, #6D0000 100%),
+
+}
+
+/*  */
+.firstcard{
+    position:absolute;
+    top:120%;
+    left: -59%;
+    font-size: 3em;
+
+}
+.secondcard{
+    width: 850px;
+    height: 350px;
+    /* background-color: hsla(0, 0%, 0%, 0.711); */
+    background: black;
+
+    margin-top: 450px;
+    margin-left: -550px;
+    border-radius: 4px 4px 4px 4px;
+    font-weight: 450;
+    line-height: 25px;
+    border: 4px solid red;
+
+}
+.secondcard:hover{
+   
+    box-shadow:27px -14px 5px 0px rgba(159,27,6,0.68);
+    -webkit-box-shadow: 7px -4px 5px 0px rgba(159,27,6,0.68);
+    -moz-box-shadow: 7px -4px 5px 0px rgba(159,27,6,0.68);
+    /* border: 2px solid red; */
+    background-color: hsla(0, 0%, 0%, 0.711);
+ background: linear-gradient(180deg, #FF1616 0%, #6D0000 100%),
+ 
+   
+}
+
+.secondcard b{
+    position:relative;
+    top:30%;
+    left: 190px;
+    display: flex;
+    color: green;
+    margin: 20px 25px;
+    line-height: 0.5rem;
+}
+/* ..................IMAGE STYLING................ */
+.img{
+    position: relative;
+    left: -10%;
+    margin-right: -40px;
+    border: 1px solid red;
+    background-color: #6D0000;
+    border-radius: 50%
+}
+.name{
+    font-size: 40px;
+}

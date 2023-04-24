@@ -1,0 +1,27 @@
+
+.subscription{
+    position: absolute;
+    top: 420%;
+    left: 20%;
+    width: 480px;
+    height: 320px;
+    background-color: hwb(0 10% 98%);
+    /* border: 2px solid green; */
+
+}
+h1{
+    color: #fff;
+}
+.bttns{
+    margin:30px 155px;
+    
+}
+.game{
+    margin-left:-10px;
+    padding: 15px;
+    width: 23em;
+}
+.para{
+    position: relative;
+    left: 3%;
+}

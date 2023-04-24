@@ -1,0 +1,85 @@
+/* .......................... Start.....Navbar styling part................................... */
+body{
+    background-color: hsl(0, 3%, 8%);
+   
+}
+.flexbox1{
+    margin-top: 15px;
+    display: flex;
+   
+    justify-content: center;
+    /* justify-content: flex-end; */
+    gap: 1.9rem;
+
+
+
+}
+.Ima{
+    position: absolute;
+    top:5%;
+    left: -68%;
+    background-color: red;
+    border-radius: 4px 4px 4px 4px;
+}
+
+.flexbox1 a{
+    text-decoration: none;
+    margin:10px
+}
+/* a{
+    font-size:10px;
+} */
+.list_item{
+    font-size:25px;
+}
+
+.flexbox1 li{
+font-style: inherit;
+/* line-height: 10.19px; */
+letter-spacing: 10x;
+}
+.flexbox1,a{
+    list-style:none;
+    color: #fff;
+}
+
+span{
+    position:relative;
+    right: 15%;
+    color: rgba(238, 239, 238, 0.853);
+    line-height:23.98px;
+    font-weight: 900;
+
+  
+
+}
+/* .......................... End.....Navbar styling part................................... */
+/* .............Section part for button........... */
+.fisrtsection{
+    position: absolute;
+    left: 85%;
+    top: 2%;
+}
+#btn{
+    /* background-color: hsl(0, 0%, 2%); */
+    background-color: hsl(0, 0%, 2%);
+    /* background-color: ; */
+
+    border: 1px solid hsl(0, 100%, 50%);
+    border-radius: 2px 2px 2px 2px;
+    width: 130px;
+    height: 40px;
+    color: #fff;
+    font-style: italic;
+    font-size:1.1rem;
+
+}
+/* Card styling css */
+/* .card{
+    display: flex;
+    /* background-color: hsl(0, 59%, 41%); 
+    border: 1px solid red;
+    border-radius: 14px 14px 14px;
+    width: 150px;
+    height: 160px;
+} */

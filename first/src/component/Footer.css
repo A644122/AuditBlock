@@ -1,0 +1,51 @@
+.link_name{
+    color: #fff;
+    list-style-type: none;
+    font-size: 1.2rem;
+    font-weight: 500;
+    margin: 10px 15px;
+}
+.logo_name{
+   position: absolute;
+   top: 8%;
+   right: 160%;
+   font-size: 1.5rem;
+}
+
+.name_logo{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+
+  .box{
+    display:inline-block;
+   gap: 2px;
+  }  
+  .box  li{
+
+    list-style-type:none;
+  }
+  .box li a{
+    text-decoration: none;
+    margin: 30px;
+  }
+  footer{
+    position: absolute;
+    left: 47%;
+    bottom: -409%;
+    
+    
+  }
+.policy_terms{
+    display: flex;
+    margin: 20px 15px;
+}
+.image{
+  border: 1px solid green;
+  border-radius:50%;
+
+  background-color: red;
+  position: absolute;
+  left:-54%
+  
+}

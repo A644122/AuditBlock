@@ -1,0 +1,74 @@
+.abouts h1,p{
+    color: #fff;
+}
+.abouts{
+    margin: 130% 24%;
+ width:300px;
+    height:100px;
+ /* border: 1px solid #c82905; */
+
+    /* box-shadow: 7px -4px 5px 0px rgba(159,27,6,0.68);
+    -webkit-box-shadow: 7px -4px 5px 0px rgba(159,27,6,0.68);
+    -moz-box-shadow: 7px -4px 5px 0px rgba(159,27,6,0.68); */
+    /* background: linear-gradient(180deg, #6D0000 0%, #FF1616 100%); */
+
+}
+
+b{
+    color: #fff;
+}
+h1{
+    text-align: center;
+}
+.afroz{
+    background: black;
+ border: 1px solid #c82905;
+    width: 130px;
+    height: 110px;
+    color: #fff;
+    border-radius: 12px 12px 12px 12px;
+    
+}
+.afroz1{
+    position: absolute;
+    left: 49%;
+    top: 358%;
+
+}
+.afroz2{
+    position: absolute;
+    left: 74%;
+    top: 358%;
+
+}
+.afroz3{
+    position: absolute;
+    left:74%;
+    top: 388%;
+
+}
+.afroz4{
+    position: absolute;
+    left:49%;
+    top: 388%;
+
+}
+
+.position{
+   position: relative;
+    left:120%;
+    bottom: 50%;
+    font-size:1.9rem;
+}
+.gaga1{
+    border: 2px solid red;
+}
+/* ................Image styling............. */
+.img1{
+    
+    border: 1px solid red;
+    border-radius: 7px 7px 7px 7px;
+    position: relative;
+    left: 30%;
+    margin-top: 20px;
+}
